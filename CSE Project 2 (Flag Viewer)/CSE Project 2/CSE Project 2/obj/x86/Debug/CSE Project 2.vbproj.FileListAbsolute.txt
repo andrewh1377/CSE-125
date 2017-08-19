@@ -1,0 +1,9 @@
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\bin\Debug\CSE Project 2.exe
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\bin\Debug\CSE Project 2.pdb
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\bin\Debug\CSE Project 2.xml
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\obj\x86\Debug\CSE_Project_2.Form1.resources
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\obj\x86\Debug\CSE_Project_2.Resources.resources
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\obj\x86\Debug\CSE Project 2.vbproj.GenerateResource.Cache
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\obj\x86\Debug\CSE Project 2.exe
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\obj\x86\Debug\CSE Project 2.xml
+E:\CSE-125\CSE Project 2 (Flag Viewer)\CSE Project 2\CSE Project 2\obj\x86\Debug\CSE Project 2.pdb

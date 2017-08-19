@@ -1,0 +1,9 @@
+E:\CSE-125\CSE Project 1\CSE Project 1\bin\Debug\CSE Project 1.exe
+E:\CSE-125\CSE Project 1\CSE Project 1\bin\Debug\CSE Project 1.pdb
+E:\CSE-125\CSE Project 1\CSE Project 1\bin\Debug\CSE Project 1.xml
+E:\CSE-125\CSE Project 1\CSE Project 1\obj\x86\Debug\CSE_Project_1.Form1.resources
+E:\CSE-125\CSE Project 1\CSE Project 1\obj\x86\Debug\CSE_Project_1.Resources.resources
+E:\CSE-125\CSE Project 1\CSE Project 1\obj\x86\Debug\CSE Project 1.vbproj.GenerateResource.Cache
+E:\CSE-125\CSE Project 1\CSE Project 1\obj\x86\Debug\CSE Project 1.exe
+E:\CSE-125\CSE Project 1\CSE Project 1\obj\x86\Debug\CSE Project 1.xml
+E:\CSE-125\CSE Project 1\CSE Project 1\obj\x86\Debug\CSE Project 1.pdb
