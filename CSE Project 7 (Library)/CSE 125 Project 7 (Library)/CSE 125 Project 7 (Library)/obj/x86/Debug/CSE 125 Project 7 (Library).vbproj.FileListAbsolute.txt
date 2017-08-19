@@ -1,0 +1,10 @@
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\bin\Debug\CSE 125 Project 7 (Library).exe
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\bin\Debug\CSE 125 Project 7 (Library).pdb
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\bin\Debug\CSE 125 Project 7 (Library).xml
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE_125_Project_7__Library_.Form1.resources
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE_125_Project_7__Library_.Resources.resources
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE 125 Project 7 (Library).vbproj.GenerateResource.Cache
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE 125 Project 7 (Library).exe
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE 125 Project 7 (Library).xml
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE 125 Project 7 (Library).pdb
+E:\CSE-125\CSE Project 7 (Library)\CSE 125 Project 7 (Library)\CSE 125 Project 7 (Library)\obj\x86\Debug\CSE_125_Project_7__Library_.AboutBox1.resources
